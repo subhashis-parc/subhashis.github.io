@@ -1,0 +1,12 @@
+title: Subhashis Hazarika
+url: "https://subhashis.github.io"
+baseurl: ""
+
+markdown: kramdown
+exclude: ['index.md.backup']
+
+tracking_id: UA-109504288-1
+
+sass:
+    style: compressed
+    sass_dir: _sass
