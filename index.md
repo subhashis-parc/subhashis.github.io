@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="SHP_9548_lowres.jpg">
 
-Currently, I am pursuing my Ph.D in the Department of Computer Science & Engineering at [The Ohio State University](https://cse.osu.edu/). I am part of the GRAphics and VIsualization sTudY ([GRAVITY](http://web.cse.ohio-state.edu/~shen.94/hwshen/Research.html)) research group led by my advisor, [Dr.Han-Wei Shen](http://web.cse.ohio-state.edu/~shen.94/hwshen/Welcome.html). I completed my B.Tech in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
+Currently, I am a Ph.D Candidate in the Department of Computer Science & Engineering at [The Ohio State University](https://cse.osu.edu/). I am part of the GRAphics and VIsualization sTudY ([GRAVITY](http://web.cse.ohio-state.edu/~shen.94/hwshen/Research.html)) research group led by my advisor, [Dr.Han-Wei Shen](http://web.cse.ohio-state.edu/~shen.94/hwshen/Welcome.html). I completed my B.Tech in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
 
 
 ## Research Interest
@@ -19,11 +19,10 @@ Some of my current topics of focus are:
 * <u>Distribution-based Probabilistic Feature Extraction and Visualization.</u>
 * <u>Multivariate and Ensemble Data Analysis & Visualization.</u>
 
-
 ## Publications
 
-1. <b>S.Hazarika</b>, S.Dutta, H-W.Shen, J-P.Chen: <i>"CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data"</i>, IEEE Transactions on Visualization and Computer Graphics, 2018. [[bib](),[pdf]()] [<b>J</b>] (Status: Accepted @ SciVis 2018)
-2. <b>S.Hazarika</b>, A.Biswas, S.Dutta, H-W.Shen: <i>"Information Guided Exploration of Scalar Values and Isocontours in Ensemble Datasets"</i>, Entropy 2018, 20(7), 540. (Special Issue <i>"Information Theory Application in Visualization"</i>) [[bib](),[pdf]()] [<b>J</b>]
+1. <b>S.Hazarika</b>, S.Dutta, H-W.Shen, J-P.Chen: <i>"CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data"</i>, IEEE Transactions on Visualization and Computer Graphics , 25(1): 1214-1224 (2019). [[bib](),[pdf]()] [<b>J</b>]
+2. <b>S.Hazarika</b>, A.Biswas, S.Dutta, H-W.Shen: <i>"Information Guided Exploration of Scalar Values and Isocontours in Ensemble Datasets"</i>, Entropy 2018, 20(7), 540. (Special Issue <i>"Information Theory Application in Visualization" </i>) [[bib](),[pdf]()] [<b>J</b>]
 3. J.Wang, <b>S.Hazarika</b>, C.Li, H-W.Shen: <i>"Visualization and Visual Analysis of Ensemble Data: A Survey"</i>, IEEE Transactions on Visualization and Computer Graphics, 2018. [[bib](),[pdf]()] [<b>J</b>] (Status: Early Access)
 4. <b>S.Hazarika</b>, A.Biswas, H-W.Shen: <i>"Uncertainty Visualization Using Copula-Based Analysis in Mixed Distribution Models"</i>, IEEE Transactions on Visualization and Computer Graphics , 24(1): 934-943 (2018) . [[bib](http://ieeexplore.ieee.org/document/8017601/citations),[pdf](http://ieeexplore.ieee.org/document/8017601/citations)] [<b>J</b>]
 5. <b>S.Hazarika</b>, S.Dutta, H-W.Shen: <i>"Visualizing the Variations of Ensemble of Isosurfaces"</i>, Pacific Visualization Symposium (PacificVis), 2016 IEEE, Page 209-213. [[bib](http://dblp2.uni-trier.de/rec/bibtex/conf/apvis/HazarikaDS16),[pdf]()] [<b>C</b>]

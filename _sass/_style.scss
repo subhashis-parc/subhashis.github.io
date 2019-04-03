@@ -11,7 +11,8 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "Roboto Light";
+    color : #000000;
     height: 100%;
     text-align: justify;
 }
@@ -35,7 +36,6 @@ hr {
 
 #author-name {
     font-size: 35px;
-    color: #272727;
     display: inline-block;
 }
 .navbar {
