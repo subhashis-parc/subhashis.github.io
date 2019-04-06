@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="SHP_9548_lowres.jpg">
+<img class="profile-picture" src="SHP_0438_lowres.jpg">
 
 Currently, I am a Ph.D Candidate in the Department of Computer Science & Engineering at [The Ohio State University](https://cse.osu.edu/). I am part of the GRAphics and VIsualization sTudY ([GRAVITY](http://web.cse.ohio-state.edu/~shen.94/hwshen/Research.html)) research group led by my advisor, [Dr. Han-Wei Shen](http://web.cse.ohio-state.edu/~shen.94/hwshen/Welcome.html). I completed my B.Tech in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
 
