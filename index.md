@@ -19,6 +19,8 @@ Some of my current topics of focus are:
 * <u>Distribution-based Probabilistic Feature Extraction and Visualization.</u>
 * <u>Multivariate and Ensemble Data Analysis & Visualization.</u>
 
+
+
 ## Publications
 
 1. <b>S.Hazarika</b>, S.Dutta, H-W.Shen, J-P.Chen: <i>"CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data"</i>, IEEE Transactions on Visualization and Computer Graphics , 25(1): 1214-1224 (2019). [[bib](),[pdf]()] [<b>J</b>]
@@ -31,16 +33,17 @@ Some of my current topics of focus are:
 
 ** [<b>J</b>: Journal; <b>C</b>: Conference]
 
+
 ## Work Experience
 
 
 Organization | Description | Timeline
 -------|-------------|-----------
-The Ohio State University | Graduate Research Associate (Gravity Lab)  | 05/2016 - present
-Los Alamos National Lab | Graduate Intern (Applied Computer Science, CCS-7 Division)  | 05/2017 - 08/2017
-The Ohio State University | Graduate Teaching Associate/Instructor (CSE1222)  | 07/2014 - 04/2016
-Novell Inc. | Senior Software Engineer | 06/2011 - 06/2013
-European Organization for Nuclear Research (CERN) | Summer Intern (Team ALICE) | 05/2010 - 08/2010
+The Ohio State University | Graduate Research Associate (Gravity Lab)  | 05/2016-present
+Los Alamos National Laboratory | Graduate Intern (Programming Models Team, CCS-7)  | 05/2017-08/2017
+The Ohio State University | Graduate Teaching Associate/Instructor (CSE1222)  | 07/2014-04/2016
+Novell Inc. | Senior Software Engineer | 06/2011-06/2013
+European Organization for Nuclear Research (CERN) | Summer Intern (Team ALICE) | 05/2010-08/2010
 
 
 ## Honors and Awards
@@ -55,9 +58,8 @@ European Organization for Nuclear Research (CERN) | Summer Intern (Team ALICE) |
 * Email: [hazarika.3@osu.edu](mailto:hazarika.3@osu.edu)
 * Phone: [+1-614-462-9957](tel:+1-6144629957)
 
-* Social : [Github](https://github.com/subhashis), [Facebook](https://www.facebook.com/subhashis.hazarika), [Instagram](https://www.instagram.com/subhashishazarika/), [500px](https://500px.com/hsubhashis)
+* Social : [LinkedIn](https://www.linkedin.com/in/subhashis-hazarika-65812723), [Github](https://github.com/subhashis), [GoogleScholar](https://scholar.google.com/citations?user=YBrmjxgAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Subhashis_Hazarika)
 
 
 
-
-
+<img class="halo-image" src="images/whitefooter.png">
