@@ -5,19 +5,22 @@ layout: default
 
 <img class="profile-picture" src="SHP_0438_lowres.jpg">
 
-Currently, I am a Ph.D Candidate in the Department of Computer Science & Engineering at [The Ohio State University](https://cse.osu.edu/). I am part of the GRAphics and VIsualization sTudY ([GRAVITY](http://web.cse.ohio-state.edu/~shen.94/hwshen/Research.html)) research group led by my advisor, [Dr. Han-Wei Shen](http://web.cse.ohio-state.edu/~shen.94/hwshen/Welcome.html). I completed my B.Tech in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
+Currently a Ph.D Candidate in the Department of Computer Science & Engineering at [The Ohio State University](https://cse.osu.edu/). I am part of the GRAphics and VIsualization sTudY ([GRAVITY](http://web.cse.ohio-state.edu/~shen.94/hwshen/Research.html)) research group led by my advisor, [Dr. Han-Wei Shen](http://web.cse.ohio-state.edu/~shen.94/hwshen/Welcome.html). I completed my Bachelor's in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
 
 
 ## Research Interest
 
-My area of interest, broadly speaking, is in the field of Computer Graphics research. More specifically, Scientific Visualization, Real-Time Rendering and Big Data Visual Analytic. My current research projects involve developing Statistical and Geometric approaches to solve the problems of data analysis and visualization in large-scale scientific datasets. 
+<i><b>Large-Scale Data Visualization</b></i>, <i><b>Statistical Data Modeling</b></i>, <i><b>Machine Learning</b></i>, <i><b>Visual Analytics</b></i>. My current research project involves utilizing complex machine learning models as post-hoc analysis tools to facilitate interactive and exploratory visual analytics of computationally expensive mathematical models. In my other projects, I have extensively worked in developing novel statistical, geometric and information-theoretic approaches to address various analysis and visualization challenges associated with large-scale simulation data. Here is a brief outline of my research projects, more information visit [here](/research):
+  
 
-Some of my current topics of focus are:
+<!-- My area of interest, broadly speaking, is in the field of Computer Graphics research. More specifically, Scientific Visualization, Real-Time Rendering and Big Data Visual Analytic. My current research projects involve developing Statistical and Geometric approaches to solve the problems of data analysis and visualization in large-scale scientific datasets.  -->
 
 
-* <u>Information-theoretic measures for Uncertainty Analysis.</u>
-* <u>Distribution-based Probabilistic Feature Extraction and Visualization.</u>
-* <u>Multivariate and Ensemble Data Analysis & Visualization.</u>
+
+* <i>Interpretable Machine Learning Models for Interactive Visual Analytics. </i>
+* <i>Distribution-based Probabilistic Feature Extraction and Visualization.</i>
+* <i>Information-theoretic measures for Uncertainty Analysis.</i>
+* <i>Multivariate and Ensemble Data Analysis & Visualization.</i>
 
 
 
