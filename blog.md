@@ -5,7 +5,8 @@ layout: default
 
 ## Under Construction
 
-coming soon
+<!-- coming soon.
+[READ MORE...](post1) -->
 
 
 
