@@ -19,7 +19,7 @@
     <!-- Facebook Open Graph -->
     <meta name="og:description" content="">
     <meta name="og:title" content="Subhashis Hazarika">
-    <meta name="og:url" content="http://localhost:4000/blog2.html">
+    <meta name="og:url" content="http://localhost:4000/old_pages/index.md.backup">
     <meta name="og:type" content="article">
     
     
@@ -27,7 +27,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Subhashis Hazarika">
     <meta name="twitter:description" content="">
-    <meta name="twitter:url" content="http://localhost:4000/blog2.html">
+    <meta name="twitter:url" content="http://localhost:4000/old_pages/index.md.backup">
     
         <meta name="twitter:image" content="">
     
@@ -36,11 +36,11 @@
 <meta name="generator" content="Jekyll v3.6.0" />
 <meta property="og:title" content="Subhashis Hazarika" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/blog2.html" />
-<meta property="og:url" content="http://localhost:4000/blog2.html" />
+<link rel="canonical" href="http://localhost:4000/old_pages/index.md.backup" />
+<meta property="og:url" content="http://localhost:4000/old_pages/index.md.backup" />
 <meta property="og:site_name" content="Subhashis Hazarika" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/blog2.html","headline":"Subhashis Hazarika","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/old_pages/index.md.backup","headline":"Subhashis Hazarika","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -86,14 +86,47 @@
         <hr>
         
             <div class="container content">
-                <h2 id="1-cumulative-density-functions-cdf">1. Cumulative Density Functions (CDF)</h2>
+                ## About Me
 
-<p>Basic understanding of CDFs with respect to inverse sampling. Jupyter notebook <a href="http://localhost:4000/blog_folder/CDF.html">READ MORE…</a></p>
+<img class="profile-picture" src="sherlock.jpg">
 
-<h2 id="2-visualization-and-visual-analysis-of-ensemble-data-a-survey">2. Visualization and Visual Analysis of Ensemble Data: A Survey</h2>
+Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
-<h2 id="3-visualizing-the-variations-of-ensemble-of-isosurfaces">3. Visualizing the Variations of Ensemble of Isosurfaces</h2>
+This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
+## Research Interest
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+
+## Publications
+
+1. F.Bar, J.Doe: Effects of having a placeholder of a name
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+
+## Typography
+
+This is a [link](http://google.com). Something *italics* and something **bold**.
+
+Here is a table
+
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
+
+Here is a horizontal rule
+
+---
+
+Here is a blockquote
+
+> To a great mind, nothing is little
+
+## References
+
+* Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum
 
             </div>
         
