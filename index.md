@@ -10,7 +10,9 @@ Currently a Ph.D Candidate in the Department of Computer Science & Engineering a
 
 ## Research Interest
 
-<i><b>Large-Scale Data Visualization</b></i>, <i><b>Statistical Data Modeling</b></i>, <i><b>Machine Learning</b></i>, <i><b>Visual Analytics</b></i>. My current research project involves utilizing complex machine learning models as post-hoc analysis tools to facilitate interactive and exploratory visual analytics of computationally expensive mathematical models. In my other projects, I have extensively worked in developing novel statistical, geometric and information-theoretic approaches to address various analysis and visualization challenges associated with large-scale simulation data. Here is a brief outline of my research projects: ([more details...](/research))
+<i><b>Large-Scale Data Visualization</b></i>, <i><b>Statistical Data Modeling</b></i>, <i><b>Machine Learning</b></i>, <i><b>Visual Analytics</b></i>.
+
+My current research project involves utilizing complex machine learning models as post-hoc analysis tools to facilitate interactive and exploratory visual analytics of computationally expensive mathematical models. In my other projects, I have extensively worked in developing novel statistical, geometric and information-theoretic approaches to address various analysis and visualization challenges associated with large-scale simulation data. Here is a brief outline of my research projects: ([more details...](/research))
   
 
 <!-- My area of interest, broadly speaking, is in the field of Computer Graphics research. More specifically, Scientific Visualization, Real-Time Rendering and Big Data Visual Analytic. My current research projects involve developing Statistical and Geometric approaches to solve the problems of data analysis and visualization in large-scale scientific datasets.  -->
@@ -42,8 +44,9 @@ Currently a Ph.D Candidate in the Department of Computer Science & Engineering a
 
 Organization | Description | Timeline
 -------|-------------|-----------
+Los Alamos National Laboratory | Research Intern (Data Science at Scale, CCS-7)  | 05/2019-present
 The Ohio State University | Graduate Research Associate (Gravity Lab)  | 05/2016-present
-Los Alamos National Laboratory | Graduate Intern (Programming Models Team, CCS-7)  | 05/2017-08/2017
+Los Alamos National Laboratory | Research Intern (Programming Models Team, CCS-7)  | 05/2017-08/2017
 The Ohio State University | Graduate Teaching Associate/Instructor (CSE1222)  | 07/2014-04/2016
 Novell Inc. | Senior Software Engineer | 06/2011-06/2013
 European Organization for Nuclear Research (CERN) | Summer Intern (Team ALICE) | 05/2010-08/2010
