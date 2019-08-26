@@ -11,7 +11,8 @@ Besides accurately predicting the outcomes of high-dimensional non-linear functi
 
 
 
-<b><u>Publications</u>:</b> <i>Under Submission</i>
+<b><u>Publications</u>:</b> 
+* <b>S.Hazarika</b>, H.Li, K-C.Wang, H-W.Shen, C-S.Chou: <i>"NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation"</i>, IEEE Transactions on Visualization and Computer Graphics , 2019, (Status: Early Access). <b>Best Paper Honorable Mention</b> at IEEE Vis (VAST) 2019 [[bib](bibtex/nnva.bib),[pdf](papers/nnva-2020.pdf)] [<b>J</b>]
 
 
 ## 2. Multivariate Distribution Modeling for Visualizing and Analyzing Large-Scale Simulation Data Using Copula Functions
@@ -24,8 +25,8 @@ and visualization tasks. <i>Second</i>, for ensemble simulations, where the same
 
 
 <b><u>Publications</u>:</b>
-* <b>S.Hazarika</b>, S.Dutta, H-W.Shen, J-P.Chen: <i>"CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data"</i>, IEEE Transactions on Visualization and Computer Graphics , 25(1): 1214-1224 (2019). [[bib](),[pdf]()] [<b>J</b>]
-* <b>S.Hazarika</b>, A.Biswas, H-W.Shen: <i>"Uncertainty Visualization Using Copula-Based Analysis in Mixed Distribution Models"</i>, IEEE Transactions on Visualization and Computer Graphics , 24(1): 934-943 (2018) . [[bib](http://ieeexplore.ieee.org/document/8017601/citations),[pdf](http://ieeexplore.ieee.org/document/8017601/citations)] [<b>J</b>]
+* <b>S.Hazarika</b>, S.Dutta, H-W.Shen, J-P.Chen: <i>"CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data"</i>, IEEE Transactions on Visualization and Computer Graphics , 25(1): 1214-1224 (2019). [[bib](bibtex/codda.bib),[pdf](papers/codda-2019.pdf)] [<b>J</b>]
+* <b>S.Hazarika</b>, A.Biswas, H-W.Shen: <i>"Uncertainty Visualization Using Copula-Based Analysis in Mixed Distribution Models"</i>, IEEE Transactions on Visualization and Computer Graphics , 24(1): 934-943 (2018) . [[bib](bibtex/copula.bib),[pdf](papers/copula-2018.pdf)] [<b>J</b>]
 
 
 ## 3. Information-theoretic Framework for Visualizing Ensemble Simulations
@@ -35,9 +36,9 @@ and visualization tasks. <i>Second</i>, for ensemble simulations, where the same
 Ensemble datasets are one of the primary sources of uncertain datasets in scientific studies. While modeling and measuring a real world phenomenon via simulations, the lack of knowledge regarding the ground truth compels scientists to use multiple initial conditions and/or different input parameters to get an estimate of the possible outcomes. The resulting ensemble datasets are used for decision making in real world and thus, are of prime importance to the scientists. Using information-theory measures like <i>mutual-information</i>, <i>specific-information</i> and <i>conditional entropy</i>, we proposed novel analysis techniques to understand ensemble of isocontours in large-scale data generated from scientific simulations. We proposed strategies to visualize the spatial variations of isosurfaces with respect to statistically significant isosurfaces within the ensemble. This helps in analyzing the influence of different ensemble runs over the spatial domain. Over the last decade, ensemble visualization has witnessed a significant development due to the wide availability of ensemble data, and the increasing visualization needs from a variety of disciplines. We also provide a comprehensive survey of the various existing visualization and visual analytic works targeted for ensemble simulation data. 
 
 <b><u>Publications</u>:</b>
-* <b>S.Hazarika</b>, A.Biswas, S.Dutta, H-W.Shen: <i>"Information Guided Exploration of Scalar Values and Isocontours in Ensemble Datasets"</i>, Entropy 2018, 20(7), 540. (Special Issue <i>"Information Theory Application in Visualization" </i>) [[bib](),[pdf]()] [<b>J</b>]
-* <b>S.Hazarika</b>, S.Dutta, H-W.Shen: <i>"Visualizing the Variations of Ensemble of Isosurfaces"</i>, Pacific Visualization Symposium (PacificVis), 2016 IEEE, Page 209-213. [[bib](http://dblp2.uni-trier.de/rec/bibtex/conf/apvis/HazarikaDS16),[pdf]()] [<b>C</b>]
-* J.Wang, <b>S.Hazarika</b>, C.Li, H-W.Shen: <i>"Visualization and Visual Analysis of Ensemble Data: A Survey"</i>, IEEE Transactions on Visualization and Computer Graphics, 2018. [[bib](),[pdf]()] [<b>J</b>] (Status: Early Access)
+* <b>S.Hazarika</b>, A.Biswas, S.Dutta, H-W.Shen: <i>"Information Guided Exploration of Scalar Values and Isocontours in Ensemble Datasets"</i>, Entropy 2018, 20(7), 540. (Special Issue <i>"Information Theory Application in Visualization" </i>) [[bib](bibtex/entropy.bib),[pdf](papers/entropy-2018.pdf)] [<b>J</b>]
+* <b>S.Hazarika</b>, S.Dutta, H-W.Shen: <i>"Visualizing the Variations of Ensemble of Isosurfaces"</i>, Pacific Visualization Symposium (PacificVis), 2016 IEEE, Page 209-213. [[bib](bibtex/isosurface_var.bib),[pdf]()] [<b>C</b>]
+* J.Wang, <b>S.Hazarika</b>, C.Li, H-W.Shen: <i>"Visualization and Visual Analysis of Ensemble Data: A Survey"</i>, IEEE Transactions on Visualization and Computer Graphics , 25(9): 2853-2872 (2019). [[bib](bibtex/ens_survey.bib),[pdf]()] [<b>J</b>]
 
 
 ## 4. EDDA: Extreme-scale Distribution-based Data Analysis Library
