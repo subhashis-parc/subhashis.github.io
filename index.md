@@ -69,7 +69,7 @@ European Organization for Nuclear Research (CERN) | Summer Intern (Team ALICE) |
 ## Services
 
 * Reviewer: IEEE Vis (SciVis 2019), ISVC (2019), ICPMS (2019), IEEE PacificVis (2018), MDPI (2018), EuroVis (2017)  
-* Student Volunteer: IEEE Vis (Pheonix, 2018) (Berlin, 2019)
+* Student Volunteer: IEEE Vis (Pheonix, 2017) (Berlin, 2018) (Vancouver, 2019)
 
 ## Contact Me
 
