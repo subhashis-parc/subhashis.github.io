@@ -32,7 +32,7 @@ My current research project involves utilizing complex machine learning models a
 
 2. <b>S.Hazarika</b>, S.Dutta, H-W.Shen, J-P.Chen: <i>"CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data"</i>, IEEE Transactions on Visualization and Computer Graphics , 25(1): 1214-1224 (2019). [[bib](bibtex/codda.bib),[pdf](papers/codda-2019.pdf)] [<b>J</b>]
 
-3. J.Wang, <b>S.Hazarika</b>, C.Li, H-W.Shen: <i>"Visualization and Visual Analysis of Ensemble Data: A Survey"</i>, IEEE Transactions on Visualization and Computer Graphics , 25(9): 2853-2872 (2019). [[bib](bibtex/ens_survey.bib),[pdf]()] [<b>J</b>]
+3. J.Wang, <b>S.Hazarika</b>, C.Li, H-W.Shen: <i>"Visualization and Visual Analysis of Ensemble Data: A Survey"</i>, IEEE Transactions on Visualization and Computer Graphics , 25(9): 2853-2872 (2019). [[bib](bibtex/ens_survey.bib),[pdf](papers/ens_survey-2019.pdf)] [<b>J</b>]
 
 4. <b>S.Hazarika</b>, A.Biswas, S.Dutta, H-W.Shen: <i>"Information Guided Exploration of Scalar Values and Isocontours in Ensemble Datasets"</i>, Entropy 2018, 20(7), 540. (Special Issue <i>"Information Theory Application in Visualization" </i>) [[bib](bibtex/entropy.bib),[pdf](papers/entropy-2018.pdf)] [<b>J</b>]
 
@@ -44,7 +44,9 @@ My current research project involves utilizing complex machine learning models a
 
 8. S.Sadhu, <b>S.Hazarika</b>, K.Jain, S.Basu, T.De : <i>"GRP-CH Heuristic for Generating Random Simple Polygon"</i>, 23rd International Workshop on Combinatorial Algorithms 2012, 293-302, Springer LNCS Volume. [[bib](grp_ch.bib),[pdf](papers/GRP_CH-2012.pdf)] [<b>C</b>]
 
-** [<b>J</b>: Journal; <b>C</b>: Conference]
+9. Q.Liu, <b>S.Hazarika</b>, J.Patchett, J.Ahrens, A.Biswas: <i>"Deep Learning-Based Feature-Aware Data Modeling for Complex Physics Simulations"</i>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2019). [[bib](),[pdf]()] [<b>P</b>]
+
+** [<b>J</b>: Journal; <b>C</b>: Conference; <b>P</b>: Poster]
 
 
 ## Work Experience
