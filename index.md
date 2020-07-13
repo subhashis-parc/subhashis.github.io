@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="images/profile/SHP_0438_lowres.jpg">
 
-Currently I am a Postdoctoral Reserach Associate at Los Alamos National Lab. I graduated with a Ph.D. from the  Department of Computer Science & Engineering at [The Ohio State University](https://cse.osu.edu/). I was part of the GRAphics and VIsualization sTudY ([GRAVITY](http://web.cse.ohio-state.edu/~shen.94/hwshen/Research.html)) research group led by my advisor, [Dr. Han-Wei Shen](http://web.cse.ohio-state.edu/~shen.94/hwshen/Welcome.html). I completed my Bachelor's in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
+Currently I am a Postdoctoral Research Associate at Los Alamos National Lab. I graduated with a Ph.D. from the  Department of Computer Science & Engineering at [The Ohio State University](https://cse.osu.edu/). I was part of the GRAphics and VIsualization sTudY ([GRAVITY](http://web.cse.ohio-state.edu/~shen.94/hwshen/Research.html)) research group led by my advisor, [Dr. Han-Wei Shen](http://web.cse.ohio-state.edu/~shen.94/hwshen/Welcome.html). I completed my Bachelor's in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
 
 
 ## Research Interest
