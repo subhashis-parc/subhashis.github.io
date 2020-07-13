@@ -12,8 +12,9 @@ Besides accurately predicting the outcomes of high-dimensional non-linear functi
 
 
 <b><u>Publications</u>:</b> 
-* <b>S.Hazarika</b>, H.Li, K-C.Wang, H-W.Shen, C-S.Chou: <i>"NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation"</i>, IEEE Transactions on Visualization and Computer Graphics , 2019, (Status: Early Access). <b>Best Paper Honorable Mention</b> at IEEE Vis (VAST) 2019 [[bib](bibtex/nnva.bib),[pdf](papers/nnva-2020.pdf)] [<b>J</b>]
+* <b>S.Hazarika</b>, H.Li, K-C.Wang, H-W.Shen, C-S.Chou: <i>"NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation"</i>, IEEE Transactions on Visualization and Computer Graphics , 26(1): 34-44 (2020). <b>Best Paper Honorable Mention</b> at IEEE Vis (VAST) 2019 [[bib](bibtex/nnva.bib),[pdf](papers/nnva-2020.pdf)] [<b>J</b>]
 
+* P.Chawla, <b>S.Hazarika</b>, H-W.Shen: <i>"Token-wise sentiment decomposition for ConvNet: Visualizing a sentiment classifier"</i>, Visual Informatics (Elsevier), Volume 4, Issue 2, Pages 132-141, ISSN 2468-502X (2020). [[bib](),[pdf]()] [<b>J</b>]
 
 ## 2. Multivariate Distribution Modeling for Visualizing and Analyzing Large-Scale Simulation Data Using Copula Functions
 
