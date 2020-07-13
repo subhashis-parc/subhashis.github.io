@@ -12,9 +12,9 @@ Currently, I am a Postdoctoral Researcher at the [Applied Computer Science Divis
 
 <i><b>Large-Scale Data Visualization</b></i>, <i><b>Statistical Data Modeling</b></i>, <i><b>Machine Learning</b></i>, <i><b>Visual Analytics</b></i>.
 
-My research involves formulating and designing statistical and machine learning solutions for visualizing/analyzing large-scale simulation data. At LANL, I am part of Exascale Data Analysis and internal LDRD projects addressing large-scale data analysis challenges. I have extensively worked in developing novel statistical, geometric, information-theoretic, and explainable machine learning approaches to facilitate scalable and interactive visual analysis of such large-scale datasets.
+My research involves formulating and designing statistical and machine learning solutions for visualizing/analyzing large-scale simulation data. At LANL, I am part of Exascale Data Analysis and internal LDRD projects addressing large-scale data analysis challenges. I have extensively worked in developing novel statistical, geometric, information-theoretic, and explainable machine learning approaches to facilitate scalable and interactive visual analysis of such large-scale datasets.  ([more details...](/research))
 
-Here is a brief outline of my research projects: ([more details...](/research))
+Here is a brief outline of my research projects:
   
 
 <!-- My current research project involves utilizing complex machine learning models as post-hoc analysis tools to facilitate interactive and exploratory visual analytics of computationally expensive mathematical models. In my other projects, I have extensively worked in developing novel statistical, geometric and information-theoretic approaches to address various analysis and visualization challenges associated with large-scale simulation data. Here is a brief outline of my research projects: ([more details...](/research)) -->
@@ -36,7 +36,7 @@ Here is a brief outline of my research projects: ([more details...](/research))
 
 * <b>S.Hazarika</b>, H.Li, K-C.Wang, H-W.Shen, C-S.Chou: <i>"NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation"</i>, IEEE Transactions on Visualization and Computer Graphics , 26(1): 34-44 (2020). <b>Best Paper Honorable Mention</b> at IEEE Vis (VAST) 2019 [[bib](bibtex/nnva.bib),[pdf](papers/nnva-2020.pdf)] [<b>J</b>]
 
-* P.Chawla, <b>S.Hazarika</b>, H-W.Shen: <i>"Token-wise sentiment decomposition for ConvNet: Visualizing a sentiment classifier"</i>, Visual Informatics (Elsevier), Volume 4, Issue 2, Pages 132-141, ISSN 2468-502X (2020). [[bib](),[pdf]()] [<b>J</b>]
+* P.Chawla, <b>S.Hazarika</b>, H-W.Shen: <i>"Token-wise Sentiment Decomposition for ConvNet: Visualizing a Sentiment Classifier"</i>, Visual Informatics (Elsevier), Volume 4, Issue 2, Pages 132-141, ISSN 2468-502X (2020). [[bib](),[pdf]()] [<b>J</b>]
 
 * <b>S.Hazarika</b>, S.Dutta, H-W.Shen, J-P.Chen: <i>"CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data"</i>, IEEE Transactions on Visualization and Computer Graphics , 25(1): 1214-1224 (2019). [[bib](bibtex/codda.bib),[pdf](papers/codda-2019.pdf)] [<b>J</b>]
 
@@ -87,13 +87,13 @@ European Organization for Nuclear Research (CERN) | Summer Intern (Team ALICE) |
 	* <i>IEEE Pacific Visualization Symposium (PacificVis)</i>
 	* <i>MDPI Entropy</i>
 	* <i>International Symposium on Visual Computing (ISVC)</i>
-	* <i>International Conference on Machine Learning and Information Processing (ICMPIP)</i>
+	* <i>International Conference on Machine Learning and Information Processing (ICMLIP)</i>
 
-* Student Volunteer: IEEE Vis (Pheonix, 2017) (Berlin, 2018) (Vancouver, 2019)
+* Student Volunteer: <i>IEEE Vis (Pheonix, 2017) (Berlin, 2018) (Vancouver, 2019)</i>
 
 ## External Links
 
-*  [LinkedIn](https://www.linkedin.com/in/subhashis-hazarika-65812723), [Github](https://github.com/subhashis), [GoogleScholar](https://scholar.google.com/citations?user=YBrmjxgAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Subhashis_Hazarika)
+*  [GoogleScholar](https://scholar.google.com/citations?user=YBrmjxgAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/subhashis-hazarika-65812723), [Github](https://github.com/subhashis), [ResearchGate](https://www.researchgate.net/profile/Subhashis_Hazarika)
 
 
 
