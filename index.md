@@ -12,7 +12,7 @@ Currently I am a Postdoctoral Researcher at the [Applied Computer Science Divisi
 
 <i><b>Large-Scale Data Visualization</b></i>, <i><b>Statistical Data Modeling</b></i>, <i><b>Machine Learning</b></i>, <i><b>Visual Analytics</b></i>.
 
-My research involves formulating and designing statistical/machine learning solutions for visualizing and analyzing large-scale simulation data. At LANL, I am part of Exascale Data Analysis and internal LDRD projects targeting large-scale data analysis problems. I have extensively worked in developing novel statistical, geometric, information-theoretic, and explainable machine learning approaches to address various analysis and visualization challenges associated with large-scale data produced by computationally expensive simulation models. 
+My research involves formulating and designing statistical and machine learning solutions for visualizing/analyzing large-scale simulation data. At LANL, I am part of Exascale Data Analysis and internal LDRD projects addressing large-scale data analysis challenges. I have extensively worked in developing novel statistical, geometric, information-theoretic, and explainable machine learning approaches to facilitate scalable and interactive visual analysis of such large-scale datasets.
 
 Here is a brief outline of my research projects: ([more details...](/research))
   
@@ -25,6 +25,7 @@ Here is a brief outline of my research projects: ([more details...](/research))
 
 
 * <i>Interpretable Machine Learning Models for Interactive Visual Analytics. </i>
+* <i>In Situ Data Analysis of Large-Scale Simulations. </i>
 * <i>Distribution-based Probabilistic Feature Extraction and Visualization.</i>
 * <i>Information-theoretic measures for Uncertainty Analysis.</i>
 * <i>Multivariate and Ensemble Data Analysis & Visualization.</i>
