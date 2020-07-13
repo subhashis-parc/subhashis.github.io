@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="images/profile/SHP_1080_crop.jpg">
 
-Currently I am a Postdoctoral Researcher at the [Applied Computer Science Division](https://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/applied-computer-science/index.php) of [Los Alamos National Laboratory (LANL)](https://www.lanl.gov/). At LANL, I am part of the [Data Science at Scale](https://dsscale.org/) team. I graduated with a Ph.D. and an M.S. from the Department of Computer Science & Engineering at [The Ohio State University](https://cse.osu.edu/) in 2019. At Ohio State, I was part of the GRAphics and VIsualization sTudY ([GRAVITY](http://web.cse.ohio-state.edu/~shen.94/hwshen/Research.html)) research group led by my advisor, [Dr. Han-Wei Shen](http://web.cse.ohio-state.edu/~shen.94/hwshen/Welcome.html). I completed my Bachelor's in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
+Currently, I am a Postdoctoral Researcher at the [Applied Computer Science Division](https://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/applied-computer-science/index.php) of [Los Alamos National Laboratory (LANL)](https://www.lanl.gov/). At LANL, I am part of the [Data Science at Scale](https://dsscale.org/) team. I graduated with a Ph.D. and an M.S. from the Department of Computer Science & Engineering at [The Ohio State University](https://cse.osu.edu/) in 2019. At Ohio State, I was part of the GRAphics and VIsualization sTudY ([GRAVITY](http://web.cse.ohio-state.edu/~shen.94/hwshen/Research.html)) research group led by my advisor, [Dr. Han-Wei Shen](http://web.cse.ohio-state.edu/~shen.94/hwshen/Welcome.html). I completed my Bachelor's in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
 
 
 ## Research Interest
@@ -80,7 +80,15 @@ European Organization for Nuclear Research (CERN) | Summer Intern (Team ALICE) |
 
 ## Services
 
-* Reviewer: IEEE TVCG (2019, 2020), ISVC (2019), ICPMS (2019), IEEE PacificVis (2018), MDPI (2018), EuroVis (2017)  
+* Reviewer: 
+	* <i>IEEE  Transactions on Visualization and Computer Graphics (TVCG)</i>
+	* <i>IEEE  Visualization (IEEE Vis)</i>
+	* <i>EG/VGTC Conference on Visualization (EuroVis)</i>
+	* <i>IEEE Pacific Visualization Symposium (PacificVis)</i>
+	* <i>MDPI Entropy</i>
+	* <i>International Symposium on Visual Computing (ISVC)</i>
+	* <i>International Conference on Machine Learning and Information Processing (ICMPIP)</i>
+
 * Student Volunteer: IEEE Vis (Pheonix, 2017) (Berlin, 2018) (Vancouver, 2019)
 
 ## External Links
