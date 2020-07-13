@@ -12,7 +12,12 @@ Currently I am a Postdoctoral Researcher at the [Applied Computer Science Divisi
 
 <i><b>Large-Scale Data Visualization</b></i>, <i><b>Statistical Data Modeling</b></i>, <i><b>Machine Learning</b></i>, <i><b>Visual Analytics</b></i>.
 
-My current research project involves utilizing complex machine learning models as post-hoc analysis tools to facilitate interactive and exploratory visual analytics of computationally expensive mathematical models. In my other projects, I have extensively worked in developing novel statistical, geometric and information-theoretic approaches to address various analysis and visualization challenges associated with large-scale simulation data. Here is a brief outline of my research projects: ([more details...](/research))
+My research involves formulating and designing statistical/machine learning solutions for visualizing and analyzing large-scale simulation data. At LANL, I am part of Exascale Data Analysis and internal LDRD projects targeting large-scale data analysis problems. I have extensively worked in developing novel statistical, geometric, information-theoretic, and explainable machine learning approaches to address various analysis and visualization challenges associated with large-scale data produced by computationally expensive simulation models. 
+
+Here is a brief outline of my research projects: ([more details...](/research))
+  
+
+<!-- My current research project involves utilizing complex machine learning models as post-hoc analysis tools to facilitate interactive and exploratory visual analytics of computationally expensive mathematical models. In my other projects, I have extensively worked in developing novel statistical, geometric and information-theoretic approaches to address various analysis and visualization challenges associated with large-scale simulation data. Here is a brief outline of my research projects: ([more details...](/research)) -->
   
 
 <!-- My area of interest, broadly speaking, is in the field of Computer Graphics research. More specifically, Scientific Visualization, Real-Time Rendering and Big Data Visual Analytic. My current research projects involve developing Statistical and Geometric approaches to solve the problems of data analysis and visualization in large-scale scientific datasets.  -->
