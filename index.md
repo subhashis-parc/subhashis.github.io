@@ -57,7 +57,8 @@ My current research project involves utilizing complex machine learning models a
 
 Organization | Description | Timeline
 -------|-------------|-----------
-The Ohio State University | Graduate Research Associate (Gravity Lab)  | 05/2016-present
+Los Alamos National Laboratory | Postdoctoral Researcher (Data Science at Scale, CCS-7)  | 01/2020-present
+The Ohio State University | Graduate Research Associate (Gravity Lab)  | 05/2016-12/2019
 Los Alamos National Laboratory | Research Intern (Data Science at Scale, CCS-7)  | 05/2019-08/2019
 Los Alamos National Laboratory | Research Intern (Programming Models Team, CCS-7)  | 05/2017-08/2017
 The Ohio State University | Graduate Teaching Associate/Instructor (CSE1222)  | 07/2014-04/2016
@@ -76,12 +77,9 @@ European Organization for Nuclear Research (CERN) | Summer Intern (Team ALICE) |
 * Reviewer: IEEE Vis (SciVis 2019), ISVC (2019), ICPMS (2019), IEEE PacificVis (2018), MDPI (2018), EuroVis (2017)  
 * Student Volunteer: IEEE Vis (Pheonix, 2017) (Berlin, 2018) (Vancouver, 2019)
 
-## Contact Me
+## External Links
 
-
-* Email: lastname[dot]3[at]osu[dot]edu
-
-* External Links : [LinkedIn](https://www.linkedin.com/in/subhashis-hazarika-65812723), [Github](https://github.com/subhashis), [GoogleScholar](https://scholar.google.com/citations?user=YBrmjxgAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Subhashis_Hazarika)
+*  [LinkedIn](https://www.linkedin.com/in/subhashis-hazarika-65812723), [Github](https://github.com/subhashis), [GoogleScholar](https://scholar.google.com/citations?user=YBrmjxgAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Subhashis_Hazarika)
 
 
 
