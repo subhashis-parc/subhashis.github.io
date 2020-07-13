@@ -56,7 +56,7 @@ My current research project involves utilizing complex machine learning models a
 
 
 Organization | Description | Timeline
--------|-------------|-----------
+----|-------------|---------------
 Los Alamos National Laboratory | Postdoctoral Researcher (Data Science at Scale, CCS-7)  | 01/2020-present
 The Ohio State University | Graduate Research Associate (Gravity Lab)  | 05/2016-12/2019
 Los Alamos National Laboratory | Research Intern (Data Science at Scale, CCS-7)  | 05/2019-08/2019
