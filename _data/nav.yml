@@ -1,9 +1,6 @@
 - name: "Résumé"
   link: "resume.pdf"
 
-- name: "Blog"
-  link: "blog"
-
 - name: "Research"
   link: "research"
 
